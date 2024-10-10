@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PROXIMUS-ALPAFI
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning bs in cs 
+- 👋 Hi, I’m Devarsh
+- 👀 I’m interested in Cyber space and Information Security
+- 🌱 I’m currently Pursuing , Masters degree in computer applications at the Goa University -Goa , India
 
 
 <!---
